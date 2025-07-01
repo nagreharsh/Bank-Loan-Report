@@ -109,20 +109,3 @@ Transform raw loan data into actionable insights with our **Bank Loan Report Das
    * Publish to Power BI Service and schedule refresh.
 
 ---
-
-## 📽️ Demo & Resources
-
-* **YouTube Tutorial**: [Data Tutorials](https://www.youtube.com/@datatutorials1)
-* **Sample Data**: `/data/loan_data.csv`
-
----
-
-## 👤 Author
-
-**Data Tutorials** – Empowering learners with practical data projects.
-
----
-
-## 📄 License
-
-© 2024 Data Tutorials • Educational Use Only
